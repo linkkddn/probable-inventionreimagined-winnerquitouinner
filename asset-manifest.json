@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/probable-inventionreimagined-winnerquitouinner/static/css/main.cef092c0.css",
+    "main.js": "/probable-inventionreimagined-winnerquitouinner/static/js/main.6105b9d1.js",
+    "static/js/453.d0685bb2.chunk.js": "/probable-inventionreimagined-winnerquitouinner/static/js/453.d0685bb2.chunk.js",
+    "index.html": "/probable-inventionreimagined-winnerquitouinner/index.html",
+    "main.cef092c0.css.map": "/probable-inventionreimagined-winnerquitouinner/static/css/main.cef092c0.css.map",
+    "main.6105b9d1.js.map": "/probable-inventionreimagined-winnerquitouinner/static/js/main.6105b9d1.js.map",
+    "453.d0685bb2.chunk.js.map": "/probable-inventionreimagined-winnerquitouinner/static/js/453.d0685bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef092c0.css",
+    "static/js/main.6105b9d1.js"
+  ]
+}
